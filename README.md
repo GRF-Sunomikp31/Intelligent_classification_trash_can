@@ -1,0 +1,2 @@
+# Intelligent_classification_trash_can
+2021年全国大学生工程训练综合能力竞赛智能垃圾分类 项目资料
